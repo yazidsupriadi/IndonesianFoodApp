@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IndonesianFoodApp</string>
+    <string name="foods_name">Food Name</string>
+    <string name="food_detail">Food Detail</string>
+    <string name="developer_info">Developer Info</string>
+    <string name="nama">Nama</string>
+    <string name="nama_developer">nama developer</string>
+    <string name="email">Email</string>
+    <string name="email_developer">email developer</string>
+    <string name="developer_profile">Developer Profile</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="detail_makanan">Detail Makanan</string>
+    <string name="muhammad_yazid_supriadi">Muhammad Yazid Supriadi</string>
+    <string name="a1561742_bangkit_academy">a1561742@bangkit.academy</string>
+    <string name="ingredients">ingredients</string>
+
+</resources>
